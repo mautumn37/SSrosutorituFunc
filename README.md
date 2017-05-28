@@ -1,0 +1,2 @@
+# SSrosutorituFunc
+LINE卓のPL別ロスト率を計算する関数を作る
